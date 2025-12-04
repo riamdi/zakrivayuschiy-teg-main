@@ -1,2 +1,1 @@
-https://github.com/OlgaNamm/zakrivayuschiy-teg-f.git
-https://olganamm.github.io/zakrivayuschiy-teg-f/
+https://github.com/riamdi/zakrivayuschiy-teg-f-ad
