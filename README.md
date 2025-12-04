@@ -1,1 +1,1 @@
-https://github.com/riamdi/zakrivayuschiy-teg-f-ad
+https://github.com/riamdi/zakrivayuschiy-teg-ad
